@@ -3,12 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "193c37afe2d9c195795935d5d1578026",
-"assets/AssetManifest.bin.json": "50a2ebb14edc0caa5d39fd1fcf48e333",
-"assets/AssetManifest.json": "1545f964b4977782c7c383b3ee07436b",
+const RESOURCES = {"assets/AssetManifest.bin": "3e6eb2e2f29927e3018df72f28aa5922",
+"assets/AssetManifest.bin.json": "76a4ea030a5490afa76cb6d7c63d2d35",
+"assets/AssetManifest.json": "58e9f8e7dcd8617f5881e7b09787e5d8",
 "assets/assets/avatar.riv": "8191fd73fce5cfd933972709f9830233",
 "assets/assets/case_studies/GCC_Portal_Case_Study.pdf": "ca5338530d1fd7d9a18bbafaa55abe78",
 "assets/assets/case_studies/Pdb_Product_Improvement_Case_Study.pdf": "41690c0de7aee895d5f3ee7bb96c7cf8",
+"assets/assets/case_studies/Stable_Money_Case_Study.pdf": "f43f1d197c0172079c24da06655d5395",
 "assets/assets/certificates/ai-product-management-airtribe.png": "95112910871f70eab777f25f0ecd49fc",
 "assets/assets/certificates/cybersecurity-ibm.png": "34b55005be70be3a1a128a3b864be99d",
 "assets/assets/certificates/figma-simplilearn.png": "8650a0fba988cbaeaf52c8e4be2dcd65",
@@ -47,14 +48,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "193c37afe2d9c195795935d5d1578026
 "canvaskit/skwasm.wasm": "1c93738510f202d9ff44d36a4760126b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "56777ad1fb7cc80fcb550102426e023d",
+"flutter_bootstrap.js": "09c7d33dd924b8593dc1cb732de255fc",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "cc6e79a2df492c6edc0a136dcde1ae73",
 "/": "cc6e79a2df492c6edc0a136dcde1ae73",
-"main.dart.js": "81d62362fc64944a536636d876421b82",
+"main.dart.js": "44b9108f215ba12c3e16bc3418c14b20",
 "manifest.json": "b36b6747f91539f9add6c85993321c26",
 "version.json": "d3fcbfc3a02d4dacfccbcc8a0b3268db"};
 // The application shell files that are downloaded before a service worker can
